@@ -1,3 +1,5 @@
+#Create a Multilayer Perceptron basic model in python and train for any data.
+
 import numpy as np
 
 # Define the sigmoid activation function
