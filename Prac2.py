@@ -1,3 +1,5 @@
+#Linear Regression using scikit-learn's built-in dataset, Boston Housing Prices. 
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
